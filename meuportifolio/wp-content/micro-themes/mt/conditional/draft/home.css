@@ -1,0 +1,51 @@
+
+/*= HOME ====================== */
+
+/** HOME >> Ast builder grid row container **/
+#ast-desktop-header .ast-builder-grid-row-container {
+	height: 100px !important;
+}
+
+/** HOME >> cabecalho **/
+#ast-desktop-header .ast-builder-grid-row-container {
+	height: 100px !important;
+}
+
+/** HOME >> Site header primary section left **/
+#ast-desktop-header .site-header-primary-section-left {
+	line-height: 30 !important;
+}
+
+/** HOME >> Ast hf menu 1 **/
+#ast-hf-menu-1 {
+	font-size: 16px !important;
+	width: 420px !important;
+}
+
+/** HOME >> Ast builder menu 1 focus item **/
+#ast-desktop-header .ast-builder-menu-1-focus-item {
+	font-size: 18px !important;
+	width: 450px !important;
+}
+
+/** HOME >> Menu link **/
+#menu-item-94 .menu-link {
+	padding-right: 10px !important;
+}
+
+/** HOME >> Menu link _2 **/
+#menu-item-15 .menu-link {
+	padding-right: 10px !important;
+}
+
+/** HOME >> Menu link _3 **/
+#menu-item-16 .menu-link {
+	padding-right: 10px !important;
+}
+
+/** HOME >> Ast custom button **/
+#ast-desktop-header .ast-custom-button {
+	text-align: center !important;
+	width: 120px !important;
+}
+
